@@ -1,0 +1,1 @@
+The sentence to practise renaming and deleting a file.
