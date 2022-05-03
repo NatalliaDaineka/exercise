@@ -1,5 +1,5 @@
-This documentation describes how to use the Karen automated toothbrush.
+This documentation describes how to use our new toothbrush.
 
-Note that this toothbrush is totally safe to use for children, adults, pets, and wildlife, and trees.
+Note that this toothbrush is absolutely safe to use for children, adults, pets, and wildlife, and trees.
 
-Read the instructions carefully.
+The toothbrush requires [need info here]. Read the instructions carefully.
